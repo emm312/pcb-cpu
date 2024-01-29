@@ -1,0 +1,21 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+C1,0.33μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,124.98,-66.675,0.0,top
+C2,0.1μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,130.29,-66.675,0.0,top
+C3,0.01μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,135.775,-66.675,0.0,top
+C4,1μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,156.21,-64.655,90.0,top
+C5,.1μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,166.485,-66.675,0.0,top
+C6,.01μF,C_Radial_D4.0mm_H7.0mm_P1.50mm,161.81,-66.675,0.0,top
+J1,Barrel_Jack,BarrelJack_SwitchcraftConxall_RAPC10U_Horizontal,116.205,-57.15,0.0,top
+J3,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Horizontal,148.59,-43.18,90.0,top
+R1,220,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,147.32,-64.008,0.0,top
+R2,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,151.13,-68.58,0.0,top
+R3,1k,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,164.465,-46.355,0.0,top
+R4,220,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,172.72,-63.5,-90.0,top
+R5,1M,R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal,137.795,-45.72,0.0,top
+RV1,1M,Potentiometer_ACP_CA9-V10_Vertical_Hole,177.88,-50.19,0.0,top
+SW1,SW_Push,SW_PUSH_6mm,180.34,-64.135,180.0,top
+SW2,SW_SPST,SW_DIP_SPSTx01_Slide_9.78x4.72mm_W7.62mm_P2.54mm,119.38,-46.99,0.0,top
+SW3,SW_SPDT,SW_Slide_1P2T_CK_OS102011MS2Q,134.9575,-57.495,90.0,top
+U1,L7805,TO-220-3_Vertical,116.84,-66.675,0.0,top
+U2,NE555P,DIP-8_W7.62mm,146.685,-57.15,-90.0,top
+U3,NE555P,DIP-8_W7.62mm,161.29,-57.15,-90.0,top
